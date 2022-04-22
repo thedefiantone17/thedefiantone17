@@ -10,7 +10,7 @@ Web and mobile app design and Developer
 * 🤝  I'm open to collaborating on web design and development projects
 * ⚡  i have a knack for motion graphics
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<p align="center">![Jokes Card](https://readme-jokes.vercel.app/api)</p>
 
 ### Skills
 
