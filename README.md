@@ -1,6 +1,5 @@
-Hi 👋 My name is Aniket
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=4000&lines=Hi+%F0%9F%91%8B+I%27m+Aniket+Sharma%EF%BC%81;console.log(%22Hello+World!%22);Stay+Hungry,+Stay+Foolish.)](https://github.com/thedefiantone17)
 =======================
-
 Web and mobile app design and Developer
 ---------------------------------------
 
